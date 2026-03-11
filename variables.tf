@@ -5,7 +5,7 @@ variable "location" {
 
 variable "resource_group_name" {
   type    = string
-  default = "terraform-demo-rg"
+  default = "terraform-rg"
 }
 
 variable "admin_username" {
